@@ -5,7 +5,7 @@ FreeFolio is a free, AI-powered platform using an agentic framework to dynamical
 
 ## Demo
 
-[![FreeFolio Demo]([https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg](https://www.ischool.berkeley.edu/sites/default/files/styles/fullscreen/public/2024-12/freefolio_screenshot_2.png?itok=YePXswhj))]([https://www.youtube.com/watch?v=awNxFPPbwP4])
+[![FreeFolio Demo](https://www.ischool.berkeley.edu/sites/default/files/styles/fullscreen/public/2024-12/freefolio_screenshot_2.png?itok=YePXswhj)](https://www.youtube.com/watch?v=awNxFPPbwP4)
 
 ## Overview
 
