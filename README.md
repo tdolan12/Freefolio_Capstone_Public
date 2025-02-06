@@ -8,6 +8,10 @@ FreeFolio is a free, AI-powered platform using an agentic framework to dynamical
 [![FreeFolio Demo](https://www.ischool.berkeley.edu/sites/default/files/styles/fullscreen/public/2024-12/freefolio_screenshot_1.png?itok=fzqFgSTa)](https://www.youtube.com/watch?v=awNxFPPbwP4)
                                        ^^Click to Play^^
 
+## Code Access
+
+This repository is private. If you have any questions or would like to discuss the project, please message me directly.
+
 ## Overview
 
 FreeFolio simplifies investment portfolio creation for novice and DIY investors. By leveraging natural language inputs, it provides personalized guidance aligned with users' values and financial goals, democratizing access to investment opportunities. The platform integrates structured data from sources like the YFinance API and unstructured data from SEC filings, processed through advanced AI techniques, to deliver tailored portfolio recommendations and insights.
