@@ -3,6 +3,10 @@
 
 FreeFolio is a free, AI-powered platform using an agentic framework to dynamically generate real-time statistics and visualizations, letting users "Talk to their data." Developed as a capstone project by Thomas Dolan, Elad Oz, Glenn Desouza, and Maximillian Jacob.
 
+## Demo
+
+[![FreeFolio Demo]([https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg](https://www.ischool.berkeley.edu/sites/default/files/styles/fullscreen/public/2024-12/freefolio_screenshot_2.png?itok=YePXswhj))]([https://www.youtube.com/watch?v=awNxFPPbwP4])
+
 ## Overview
 
 FreeFolio simplifies investment portfolio creation for novice and DIY investors. By leveraging natural language inputs, it provides personalized guidance aligned with users' values and financial goals, democratizing access to investment opportunities. The platform integrates structured data from sources like the YFinance API and unstructured data from SEC filings, processed through advanced AI techniques, to deliver tailored portfolio recommendations and insights.
