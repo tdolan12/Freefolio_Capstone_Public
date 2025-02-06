@@ -1,7 +1,8 @@
 # 2024 UC Berkeley Master in Information and Data Science Fall Capstone
 # FreeFolio
 
-FreeFolio is a free, AI-powered platform using an agentic framework to dynamically generate real-time statistics and visualizations, letting users "Talk to their data." Developed as a capstone project by Thomas Dolan, Elad Oz, Glenn Desouza, and Maximillian Jacob.
+FreeFolio is a free, AI-powered platform using an agentic framework to dynamically generate real-time statistics and visualizations, letting users "Talk to their data." This project features cutting-edge Generative AI practices such as RAG, SQL Agents, and ReAct Agent orchestration. 
+Developed as a capstone project by Thomas Dolan, Elad Oz, Glenn Desouza, and Maximillian Jacob.
 
 ## Demo
 
